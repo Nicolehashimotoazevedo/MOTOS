@@ -10,8 +10,9 @@ h2{text-align: center;}
 h1{color: aliceblue;}
 h2{color: aliceblue;}
 h3{color: aliceblue;}
-h4{color: rgb(176, 49, 37);}
-h5{color: rgb(199, 49, 46)85, 85, 212);}
+h4{color: aliceblue;}
+h5{color: rgb(46, 199, 173)85, 85, 212);}
 h6{color: rgb(238, 23, 23);} 
-i{color: rgb(138, 138, 239);}
-i{font-size: small;}
+i{font-size: 50%;}
+i{text-align: center;}
+i{color: rgb(0, 170, 255);}
